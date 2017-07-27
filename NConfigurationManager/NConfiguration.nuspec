@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NConfigurationManager</id>
+    <version>1.0.1</version>
+    <title>NConfigurationManager</title>
+    <authors>Martijn Laarman</authors>
+    <owners>Q42</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NConfiguration</description>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+</package>
